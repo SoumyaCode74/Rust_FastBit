@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.server.extraEnv": null,
+    "rust-analyzer.check.command": "clippy"
+}
